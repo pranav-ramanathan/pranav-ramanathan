@@ -58,7 +58,7 @@ Hello there! 👋 I'm Pranav, a passionate and dedicated student of Mathematics 
 
 ## 📫 How to Reach Me
 
-- 📧 Email: [p.ramanathan@se23.qmul.ac.uk](mailto:p.ramanathan@se23.qmul.ac.uk)
-- 🔗 LinkedIn: [Pranav Ramanathan](https://www.linkedin.com/in/pranav-ramanathan-11506b232)
+- 📧 Email: [pranav.ramanathan@gmail.com](mailto:pranav.ramanathan@gmail.com)
+- 🔗 LinkedIn: [Pranav Ramanathan](https://www.linkedin.com/in/pranav-ramanathan)
 
 I am always open to collaborating on projects and ideas that challenge the status quo and push the boundaries of technology and mathematics. Feel free to reach out for discussions, collaborations, or just a friendly chat about the latest in tech and mathematics!
