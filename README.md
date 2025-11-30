@@ -1,64 +1,65 @@
-
-<!--
-**pranav-ramanathan/pranav-ramanathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Pranav Ramanathan
 
-Hello there! 👋 I'm Pranav, a passionate and dedicated student of Mathematics at Queen Mary University of London. My journey in computing and programming began with building my first gaming PC and has since expanded into a deep fascination with the interplay between mathematics, computing, and real-world applications.
+**Mathematics Undergraduate | AI Researcher | Aspiring Computer Scientist**
 
-## 📚 Education
+I'm a final-year Mathematics student at Queen Mary University of London, passionate about using AI to solve challenging mathematical problems. My research centers on the intersection of machine learning, reinforcement learning, and combinatorial optimization—specifically exploring when and why different AI techniques succeed or fail.
 
-- **Bachelor of Science in Mathematics**
-  - Queen Mary University of London (Expected June 2026)
-  - Active member of the Machine Learning Society
-  - Student athlete on the Queen Mary football team
+## 🔬 Current Research
 
-- **A-Level in Further Mathematics, Mathematics, Physics**
-  - Moulsham High School
-  - Mentored Year 11 students in GCSE Mathematics
-  - Silver Awardee in UKMT Senior Mathematical Challenge
+**STRIDE Undergraduate Research Programme** | Queen Mary University of London  
+*June 2025 - August 2025*
+
+Selected as one of 12 students from hundreds of applicants to work on the century-old **No-Three-in-Line problem**. My research compares modern AI approaches against classical optimization:
+
+- Built transformer models (PatternBoost methodology) to learn patterns from solution datasets
+- Developed reinforcement learning agents using PPO in custom Gymnasium environments
+- Managed large-scale HPC experiments on Apocrita cluster
+- Research paper in preparation for ICML 2026 submission
+
+This work represents my core intellectual thread: **learning at the boundary of failure** through systematic experimentation to understand when AI methods succeed versus when classical approaches remain superior.
 
 ## 💼 Professional Experience
 
-- **Summer Intern at iamneo, Coimbatore, India (July 2023 - August 2023)**
-  - Developed a HR chatbot using OpenAI's GPT-3 and Microsoft Power Virtual Agents
+**AI Engineer Intern** | TinyMagiq *(Part-time during studies, June 2024 - June 2025)*
+- Built advanced multi-document AI system supporting 30+ concurrent documents
+- Optimized query processing from 30 seconds to 0.5 seconds
+- Reduced inference costs by 95% through strategic model migration (GPT-4o → Llama 3.3-70B)
+- Implemented multiple RAG techniques including semantic chunking and Graph RAG
 
-- **Intern at Digital Amplifier, Chelmsford, United Kingdom (March 2022 - August 2022)**
-  - Key contributor to a high-speed delivery app project
-  - Led front-end development using Flutter
-  - Conducted location engineering study for optimal delivery routes
+**Co-Founder** | Humanaize *(February 2024 - Present)*
+- Developing voice concierge platform for e-commerce
+- Managing AWS deployment and CI/CD pipelines
+- Actively pitching to e-commerce companies
 
-## 🖥️ Technical Skills
+**Software Engineer Intern** | Deep Data Mart *(May 2024 - September 2024)*
+- Developed migration system for enterprise mainframe to Google Cloud Platform
+- Reduced transfer times by 50% using parallel processing
+- Designed robust error recovery for high-stakes enterprise migration
 
-- Proficient in **Python**, **C++**, and **Flutter**
-- Experienced in **Data Analytics**
-- Enthusiastic about **Machine Learning** and **AI**
-- Linux enthusiast with a knack for open-source technologies
+## 🎓 Education
 
-## 🌱 Interests and Projects
+**BSc Mathematics** | Queen Mary University of London *(Graduating June 2026)*  
 
-- **Digital Electronics and Home Automation**: Built an automated model home controlled by Arduino, and working on introducing security features with Raspberry Pi.
-- **Game Development**: Exploring the role of mathematics in game design and programming.
 
-## ⚽ Outside Academics
+## 🎯 Research Interests
 
-- Representing the **Queen Mary football team** and **Hutton FC** as a goalkeeper
+I'm particularly interested in:
+- Using AI to tackle mathematical problems
+- Reinforcement learning and its limitations
+- Scientific machine learning (Neural ODEs, PINNs)
 
-## 📫 How to Reach Me
+## 📫 Connect With Me
 
-- 📧 Email: [pranav.ramanathan@gmail.com](mailto:pranav.ramanathan@gmail.com)
-- 🔗 LinkedIn: [Pranav Ramanathan](https://www.linkedin.com/in/pranav-ramanathan)
+- 📧 Email: pranav.ramanathan@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/pranav-ramanathan](https://www.linkedin.com/in/pranav-ramanathan)
+- 🔗 GitHub: You're already here!
 
-I am always open to collaborating on projects and ideas that challenge the status quo and push the boundaries of technology and mathematics. Feel free to reach out for discussions, collaborations, or just a friendly chat about the latest in tech and mathematics!
+---
+
+I'm actively applying to Master's programs in Computer Science with a focus on AI. I'm particularly interested in research positions that explore the boundaries between classical optimization and modern learning-based approaches. Feel free to reach out for collaborations, discussions about AI research, or opportunities!
+
+<!--
+**Currently working on:** STRIDE research (No-Three-in-Line problem), Humanaize platform development, Graduate school applications  
+**Currently learning:** Universal Differential Equations, Advanced RL techniques, Production ML systems  
+**Looking to collaborate on:** AI research projects, Mathematical optimization problems, Research paper submissions
+-->
