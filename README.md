@@ -1,65 +1,25 @@
-# Pranav Ramanathan
+MSc Machine Learning student at UCL, in London. I build LLM agents that hold up in production, and I study where learning methods beat classical search and where they do not.
 
-**Mathematics Undergraduate | AI Researcher | Aspiring Computer Scientist**
+**Open to summer 2027 ML research and engineering internships.** [Website](https://pranavramanathan.me) · [Email](mailto:pranav.ramanathan@gmail.com) · [LinkedIn](https://www.linkedin.com/in/pranav-ramanathan/)
 
-I'm a final-year Mathematics student at Queen Mary University of London, passionate about using AI to solve challenging mathematical problems. My research centers on the intersection of machine learning, reinforcement learning, and combinatorial optimization—specifically exploring when and why different AI techniques succeed or fail.
+## Research
 
-## 🔬 Current Research
+- **Three methods, one problem: classical and AI approaches to no-three-in-line.** First author. Frontiers in Artificial Intelligence, 9:1799444 (2026). Integer programming is optimal up to 19×19, PatternBoost up to 14×14 and PPO up to 10×10; PPO fails at 11×11. [Paper](https://doi.org/10.3389/frai.2026.1799444) · [arXiv](https://arxiv.org/abs/2512.11469) · Code: [ILP](https://github.com/pranav-ramanathan/N3L_gurobi), [PatternBoost](https://github.com/pranav-ramanathan/N3L_PatternBoost), [PPO](https://github.com/pranav-ramanathan/N3L_RL)
+- **Four Methods, One Problem: The No-Three-in-Line Problem.** Poster at the ICML 2026 AI4Math Workshop (peer-reviewed, non-archival). Adds a gradient-flow solver that reaches the 2n bound up to n = 18. [OpenReview](https://openreview.net/forum?id=svadBHt6YN) · [Code](https://github.com/pranav-ramanathan/N3L_SciML)
 
-**STRIDE Undergraduate Research Programme** | Queen Mary University of London  
-*June 2025 - August 2025*
+Not yet published:
 
-Selected as one of 12 students from hundreds of applicants to work on the century-old **No-Three-in-Line problem**. My research compares modern AI approaches against classical optimization:
+- **HP protein folding, constraint programming vs reinforcement learning** (manuscript in preparation). CP-SAT reached energy −56 on benchmark 3d9; the best previously reported value is −55. [Code](https://github.com/pranav-ramanathan/HP-CSP)
+- **VoicePilot** (in progress, UCL with Vizuara). Formalising control of a streaming voice pipeline as constrained multi-objective optimisation.
 
-- Built transformer models (PatternBoost methodology) to learn patterns from solution datasets
-- Developed reinforcement learning agents using PPO in custom Gymnasium environments
-- Managed large-scale HPC experiments on Apocrita cluster
-- Research paper in preparation for ICML 2026 submission
+## Industry
 
-This work represents my core intellectual thread: **learning at the boundary of failure** through systematic experimentation to understand when AI methods succeed versus when classical approaches remain superior.
+- **Amazon**, ML SDE Intern, RBKS AI Innovation Lab (Ring), Jun to Sep 2026. I built an On Call Copilot whose root cause and recommended fix matched ground truth for 72% of 212 high-severity incidents. I also built a remediation agent that submits fixes for human approval; it cut my team's open security risks from 50 to 2 in two weeks and is now used by two other teams.
+- **[Humanaize](https://humanaizelabs.com)**, Co-founder, Aug 2025 to present. Multilingual voice agents for e-commerce sites, built on Whisper, Cartesia, RAG-based retrieval and self-hosted LiveKit.
+- **TinyMagiq**, AI Engineer Intern (part-time), Jun 2024 to Apr 2025. Cut response latency from 30 seconds to 0.5 seconds, and inference costs by over 95% by migrating from GPT-4o to Llama 3.3 70B on Groq.
 
-## 💼 Professional Experience
+Earlier roles are on my [website](https://pranavramanathan.me).
 
-**AI Engineer Intern** | TinyMagiq *(Part-time during studies, June 2024 - June 2025)*
-- Built advanced multi-document AI system supporting 30+ concurrent documents
-- Optimized query processing from 30 seconds to 0.5 seconds
-- Reduced inference costs by 95% through strategic model migration (GPT-4o → Llama 3.3-70B)
-- Implemented multiple RAG techniques including semantic chunking and Graph RAG
+## Education
 
-**Co-Founder** | Humanaize *(February 2024 - Present)*
-- Developing voice concierge platform for e-commerce
-- Managing AWS deployment and CI/CD pipelines
-- Actively pitching to e-commerce companies
-
-**Software Engineer Intern** | Deep Data Mart *(May 2024 - September 2024)*
-- Developed migration system for enterprise mainframe to Google Cloud Platform
-- Reduced transfer times by 50% using parallel processing
-- Designed robust error recovery for high-stakes enterprise migration
-
-## 🎓 Education
-
-**BSc Mathematics** | Queen Mary University of London *(Graduating June 2026)*  
-
-
-## 🎯 Research Interests
-
-I'm particularly interested in:
-- Using AI to tackle mathematical problems
-- Reinforcement learning and its limitations
-- Scientific machine learning (Neural ODEs, PINNs)
-
-## 📫 Connect With Me
-
-- 📧 Email: pranav.ramanathan@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/pranav-ramanathan](https://www.linkedin.com/in/pranav-ramanathan)
-- 🔗 GitHub: You're already here!
-
----
-
-I'm actively applying to Master's programs in Computer Science with a focus on AI. I'm particularly interested in research positions that explore the boundaries between classical optimization and modern learning-based approaches. Feel free to reach out for collaborations, discussions about AI research, or opportunities!
-
-<!--
-**Currently working on:** STRIDE research (No-Three-in-Line problem), Humanaize platform development, Graduate school applications  
-**Currently learning:** Universal Differential Equations, Advanced RL techniques, Production ML systems  
-**Looking to collaborate on:** AI research projects, Mathematical optimization problems, Research paper submissions
--->
+MSc Machine Learning, University College London, 2026 to 2027. BSc Honours Mathematics, First Class, Queen Mary University of London, 2023 to 2026.
